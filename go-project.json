@@ -1,0 +1,21 @@
+{
+    "version": "0.1.4",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/zackijack/go-project/releases/download/v0.1.4/go-project_Windows_i386.zip",
+            "bin": [
+                "go-project.exe"
+            ],
+            "hash": "0e5726110d6623cda3988a0a968d9679b644ee289813927ff37a0db9e83770df"
+        },
+        "64bit": {
+            "url": "https://github.com/zackijack/go-project/releases/download/v0.1.4/go-project_Windows_x86_64.zip",
+            "bin": [
+                "go-project.exe"
+            ],
+            "hash": "d8fd1caa1e2b1ff07b900a9c5a1f7d4cf5ebab5f808a08c3d2a1a671fab51507"
+        }
+    },
+    "homepage": "https://github.com/zackijack/go-project",
+    "description": "Go project template"
+}
