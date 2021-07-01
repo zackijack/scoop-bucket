@@ -1,19 +1,19 @@
 {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/zackijack/go-project/releases/download/v0.1.5/go-project_Windows_i386.zip",
+            "url": "https://github.com/zackijack/go-project/releases/download/v0.1.6/go-project_Windows_i386.zip",
             "bin": [
                 "go-project.exe"
             ],
-            "hash": "add13748d175228798012d7e5c1e5c7d1895f5efeb2d2f4874321a755288af99"
+            "hash": "599435c4e14446d122d7cec48af3e733ef9b936221a9d65bc8b4431f4a4b9e39"
         },
         "64bit": {
-            "url": "https://github.com/zackijack/go-project/releases/download/v0.1.5/go-project_Windows_x86_64.zip",
+            "url": "https://github.com/zackijack/go-project/releases/download/v0.1.6/go-project_Windows_x86_64.zip",
             "bin": [
                 "go-project.exe"
             ],
-            "hash": "0b17215ce61bd2448497e400b911427c1680a940515efdf5b48bc0953026dc74"
+            "hash": "e598c4f0dcb22c3ed0b5d49dbd38967f241752998107d830cb82fa19cfa655e2"
         }
     },
     "homepage": "https://github.com/zackijack/{{ .ProjectName }}",
